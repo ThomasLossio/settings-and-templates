@@ -8,12 +8,6 @@ Primeiramente é necessário a instalação da CLI do Adonis, você pode instala
 npm install -g @adonisjs/cli
 ```
 
-ou
-
-```sh
-yarn global add @adonisjs/cli
-```
-
 Espere a instalação terminar e execute `adonis` no terminal, se constar uma lista de comandos, significa que foi instalado com sucesso.
 
 ## Inicializando Projeto Api-only
